@@ -1,20 +1,20 @@
 
-# Email Validation
+# 📧  Email Validation
 
 A simple and efficient Python program to validate email addresses based on standard email formatting rules.  
 It checks if the given email follows correct syntax and structure.
 
-## Features
+## ✨ Features
 - Checks for `@` symbol presence
 - Validates domain format
 - Ensures proper username and domain name
 - Displays clear error messages for invalid emails
 - Lightweight and easy to use
 
-## Requirements
+## 📦 Requirements
 - Python 3.x
 
-## How to Use
+## 🚀 How to Use
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Sakshi9335/Email-Validation.git
@@ -32,16 +32,16 @@ It checks if the given email follows correct syntax and structure.
    ```
 4. **Enter your email** when prompted — the program will tell you if it is valid or invalid.
 
-## Example
+## 🖥️ Example
 
-**Valid Email**
+**✅ Valid Email**
 
 ```bash
 Enter your email: sakshishu10@gmail.com
 Valid Email ✅
 ```
 
-**Invalid Email**
+**❌ Invalid Email**
 
 ```bash
 Enter your email: sakshi@.com
@@ -49,7 +49,7 @@ Invalid Email ❌
 Reason: Domain name is not valid
 ```
 
-## Flow Diagram
+## 📊 Flow Diagram
 
 ```
         ┌─────────────────────┐
@@ -75,8 +75,9 @@ Reason: Domain name is not valid
    ┌──────────────────────────┐   ┌──────────────────────┐
    │ Display "Valid Email ✅" │   │  Invalid Email ❌     │
    └──────────────────────────┘   └──────────────────────┘
+```
 
-
-## License
+## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
